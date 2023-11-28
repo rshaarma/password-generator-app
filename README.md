@@ -61,7 +61,7 @@ CSS3
 ```
 
 ```shell
-JavaScript
+JAVASCRIPT
 ```
 
 #### Clone the repository
