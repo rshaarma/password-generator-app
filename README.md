@@ -63,7 +63,7 @@ CSS3
 #### Clone the repository
 
 ```shell
-git clone git@github.com:rshaarma/Bootstrap-Portfolio.git
+git clone git@github.com:rshaarma/password-generator-app.git
 cd project
 ```
 
@@ -71,17 +71,15 @@ cd project
 
 ## Roadmap
 
-See the [open issues](https://github.com/rshaarma/Bootstrap-Portfolio/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/rshaarma/password-generator-app/issues) for a list of proposed features (and known issues).
 
 ## Resources
 
-1. Coolors (https://coolors.co/?home)
-2. Unsplash (https://unsplash.com/)
-3. Google Fonts (https://fonts.google.com/)
-4. Github (https://github.com/)
-5. Bootstrap (https://getbootstrap.com/)
-6. Responsive Web Design - How to Create Media Queries
-7. Media Queries 101 by CSS Tricks
+1. Google Fonts (https://fonts.google.com/)
+2. Github (https://github.com/)
+3. Bootstrap (https://getbootstrap.com/)
+4. Responsive Web Design - How to Create Media Queries
+5. Media Queries 101 by CSS Tricks
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -96,4 +94,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-You can contact us by opening an issue in this [repo](https://github.com/rshaarma/Bootstrap-Portfolio/issues). We will get back to you as soon as we can.
+You can contact us by opening an issue in this [repo](https://github.com/rshaarma/password-generator-app/issues). We will get back to you as soon as we can.
