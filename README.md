@@ -4,7 +4,7 @@
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://rshaarma.github.io/Bootstrap-Portfolio/">View Demo</a>
+    <a href="https://rshaarma.github.io/password-generator-app//">View Demo</a>
     ·
     <a href="https://github.com/rshaarma/password-generator-app/issues">Report Bug</a>
     ·
@@ -58,6 +58,10 @@ HTML5
 
 ```shell
 CSS3
+```
+
+```shell
+JavaScript
 ```
 
 #### Clone the repository
